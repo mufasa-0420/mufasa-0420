@@ -10,7 +10,7 @@
      <td> 
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=letusgittogether&theme=radical&show_icons=true&count_private=true&hide=prs) </td> 
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letusgittogether&theme=radical&layout=compact)](https://github.com/mufasa-0420) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufasa-0420&theme=radical&layout=compact)](https://github.com/mufasa-0420) </td>
    </tr>
   </table>
   
